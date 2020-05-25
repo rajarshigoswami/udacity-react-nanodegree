@@ -1,0 +1,18 @@
+Structure : 
+
+<Header>
+<BookList>
+    <BookShelf>
+        <Book>
+            <BookShelfChanger />
+        <Book>
+        <Book>
+            <BookShelfChanger />
+        <Book>
+        <Book>
+            <BookShelfChanger />
+        <Book>
+    </BookShelf>
+</BookList>
+
+</BookShelf>
